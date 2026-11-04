@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Parallel Palettes</string>
+    <string name="title_activity_main">Parallel Palettes</string>
+    <string name="package_name">com.parallelpalettes.app</string>
+    <string name="custom_url_scheme">com.parallelpalettes.app</string>
+</resources>
